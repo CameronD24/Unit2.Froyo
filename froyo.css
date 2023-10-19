@@ -1,3 +1,17 @@
 nav {
   background-color: lightblue;
+  display: flex;
+  box-shadow: 5px 10px black;
+  
+}
+div {
+  background-color: lightcoral;
+  margin-top: 15%;
+  color: rgb(6, 64, 115);
+  display: inline-block;
+}
+.div2 {
+  display: inline-block;
+  margin-top: 35px;
+  padding: 25px;
 }
